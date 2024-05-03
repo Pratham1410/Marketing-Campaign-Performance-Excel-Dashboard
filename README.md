@@ -17,12 +17,9 @@ It includes historical campaign data like dates, budget, revenue, impressions, a
 - **Navigating the Dashboard:** Use slicers and dropdowns to filter the dataset.
 - **Refreshing the Data:** Instructions on how to refresh data and ensure the dashboard updates correctly.
 
-## Contributing
-Contributions to this project are welcome. Please refer to the `CONTRIBUTING.md` file for contribution guidelines.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
 
-## Contact
-For any inquiries or contributions, please open an issue in this repository or contact [Your Contact Information].
+
 
